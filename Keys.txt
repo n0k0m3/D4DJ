@@ -1,0 +1,10 @@
+Source: Perfare
+
+
+大佬能研究一下D4DJ Groovy Mix吗 我想提取D4DJ的音乐， 我已经把Hca加密key找出来了是393410674916959300，但是只能正常播放除了游戏内音乐的其他音乐以及音效，游戏内的音乐并不能播放.
+AssetBundle是用AES CBC模式加密的，密钥是5Mp78iBLX9gVvDjWGCqfbzRHS7hK3JiR，填充模式是PKCS7， key大小和块大小都是128
+
+
+
+Can you research D4DJ Groovy Mix? I want to extract D4DJ music. I have found out the HCA encryption key is 393410674916959300, but it can only play other music and sound effects except the in-game music. The in-game music cannot be played. .
+AssetBundle with AES CBC mode encryption, the key is 5Mp78iBLX9gVvDjWGCqfbzRHS7hK3JiR, fill pattern is PKCS7, key size and block size are both 128
